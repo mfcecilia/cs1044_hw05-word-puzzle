@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461619452 source:d:\cs 1044 intro c++\hw05\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
